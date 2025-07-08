@@ -1,0 +1,11 @@
+ERROR:root:This is zerodivisionerror handling: division by zero
+INFO:root:This is information about my file
+ERROR:root:This is an error message in my file
+WARNING:root:This is an warning message in my file
+INFO:root:This is information about my file
+ERROR:root:This is an error message in my file
+WARNING:root:This is an warning message in my file
+ERROR:root:This is zerodivisionerror handling: division by zero
+INFO:root:This is information about my file
+ERROR:root:This is an error message in my file
+WARNING:root:This is an warning message in my file

@@ -1,0 +1,4 @@
+This is the example file.
+This file is for Assignment
+it,s for reading content line by line
+it,s for storing content in list
